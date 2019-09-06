@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "initials": "AC",
+    "country_id": "1",
+    "name": "Acre"
+  },
+  {
+    "id": "2",
+    "initials": "AL",
+    "country_id": "1",
+    "name": "Alagoas"
+  },
+  {
+    "id": "3",
+    "initials": "AM",
+    "country_id": "1",
+    "name": "Amazonas"
+  },
+  {
+    "id": "4",
+    "initials": "AP",
+    "country_id": "1",
+    "name": "Amapá"
+  },
+  {
+    "id": "5",
+    "initials": "BA",
+    "country_id": "1",
+    "name": "Bahia"
+  },
+  {
+    "id": "6",
+    "initials": "CE",
+    "country_id": "1",
+    "name": "Ceará"
+  },
+  {
+    "id": "7",
+    "initials": "DF",
+    "country_id": "1",
+    "name": "Distrito Federal"
+  },
+  {
+    "id": "8",
+    "initials": "ES",
+    "country_id": "1",
+    "name": "Espírito Santo"
+  },
+  {
+    "id": "9",
+    "initials": "GO",
+    "country_id": "1",
+    "name": "Goiás"
+  },
+  {
+    "id": "10",
+    "initials": "MA",
+    "country_id": "1",
+    "name": "Maranhão"
+  },
+  {
+    "id": "11",
+    "initials": "MG",
+    "country_id": "1",
+    "name": "Minas Gerais"
+  },
+  {
+    "id": "12",
+    "initials": "MS",
+    "country_id": "1",
+    "name": "Mato Grosso do Sul"
+  },
+  {
+    "id": "13",
+    "initials": "MT",
+    "country_id": "1",
+    "name": "Mato Grosso"
+  },
+  {
+    "id": "14",
+    "initials": "PA",
+    "country_id": "1",
+    "name": "Pará"
+  },
+  {
+    "id": "15",
+    "initials": "PB",
+    "country_id": "1",
+    "name": "Paraíba"
+  },
+  {
+    "id": "16",
+    "initials": "PE",
+    "country_id": "1",
+    "name": "Pernambuco"
+  },
+  {
+    "id": "17",
+    "initials": "PI",
+    "country_id": "1",
+    "name": "Piauí"
+  },
+  {
+    "id": "18",
+    "initials": "PR",
+    "country_id": "1",
+    "name": "Paraná"
+  },
+  {
+    "id": "19",
+    "initials": "RJ",
+    "country_id": "1",
+    "name": "Rio de Janeiro"
+  },
+  {
+    "id": "20",
+    "initials": "RN",
+    "country_id": "1",
+    "name": "Rio Grande do Norte"
+  },
+  {
+    "id": "21",
+    "initials": "RO",
+    "country_id": "1",
+    "name": "Rondônia"
+  },
+  {
+    "id": "22",
+    "initials": "RR",
+    "country_id": "1",
+    "name": "Roraima"
+  },
+  {
+    "id": "23",
+    "initials": "RS",
+    "country_id": "1",
+    "name": "Rio Grande do Sul"
+  },
+  {
+    "id": "24",
+    "initials": "SC",
+    "country_id": "1",
+    "name": "Santa Catarina"
+  },
+  {
+    "id": "25",
+    "initials": "SE",
+    "country_id": "1",
+    "name": "Sergipe"
+  },
+  {
+    "id": "26",
+    "initials": "SP",
+    "country_id": "1",
+    "name": "São Paulo"
+  },
+  {
+    "id": "27",
+    "initials": "TO",
+    "country_id": "1",
+    "name": "Tocantins"
+  }
+]
